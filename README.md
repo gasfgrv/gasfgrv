@@ -4,17 +4,16 @@
 
 <div style="background-color:  #d9d9d9; padding: 2px; border-radius: 15px" align="center">
 
-[<img style="padding: 15px;" alt="YouTube" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img style="padding: 15px;" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="padding: 15px;" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img style="padding: 15px;" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img style="padding: 15px;" alt="Skipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skype.svg" />][skype]
-[<img style="padding: 15px;" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
-[<img style="padding: 15px;" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
-[<img style="padding: 15px;" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
+[<img style="padding: 25px;" alt="YouTube" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img style="padding: 25px;" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="padding: 25px;" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img style="padding: 25px;" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img style="padding: 25px;" alt="Skipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skype.svg" />][skype]
+[<img style="padding: 25px;" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
+[<img style="padding: 25px;" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
+[<img style="padding: 25px;" alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
 </div>
-
 
 ----------
 
