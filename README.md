@@ -2,7 +2,7 @@
 
 ### Me encontre aqui
 
-<div style="background-color:  #d9d9d9; padding: 2px; border-radius: 15px" align="center">
+<div style="background-color:  coral; padding: 2px; border-radius: 15px" align="center">
 
 [<img style="padding: 25px;" alt="YouTube" width="22px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img style="padding: 25px;" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
