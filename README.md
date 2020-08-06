@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Gustomize/Gustomize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me encontre aqui
 
-Here are some ideas to get you started:
+[<img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
+[<img alt="Skipe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/skype.svg" />][skype]
+[<img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
+[<img alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftoutlook.svg" />][outlook]
+[<img alt="Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+----------
+
+
+[youtube]: https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g
+[instagram]: https://www.instagram.com/__gasilva/?hl=pt-br
+[linkedin]: linkedin.com/in/gustavo-silva-69b84a15b
+[facebook]: https://www.facebook.com/gAlmeida11
+[skype]: https://join.skype.com/invite/qZhq0U5rCmDp
+[discord]: https://linkedin.com/in/codeSTACKr
+[outlook]: gustavo_almeida11@hotmail.com
+[gmail]: gustavoalmeidasilva41@gmail.com
