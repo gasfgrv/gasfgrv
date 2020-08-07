@@ -16,4 +16,17 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 :iphone: **Me encontre aqui**
 
-:desktop_computer: Ferramentas e tecnologias
+<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Gustavo Silva (Youtube)]
+
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> [Gustavo Silva (LinkedIn)]
+
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [@__gasilva (Instagram)]
+
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[Gustavo Almeida (Facebook)]
+
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> Gusto#7775
+
+[Gustavo Silva (Youtube)]: https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g
+[Gustavo Silva (LinkedIn)]: https://linkedin.com/in/codeSTACKr
+[@__gasilva (Instagram)]: https://instagram.com/__gasilva
+[Gustavo Almeida (Facebook)]: https://www.facebook.com/gAlmeida11
