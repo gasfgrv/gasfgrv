@@ -25,8 +25,6 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Gustavo Almeida (Facebook)]
 
-<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> Gusto#7775
-
 [Gustavo Silva (Youtube)]: https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g
 [Gustavo Silva (LinkedIn)]: https://www.linkedin.com/in/gustavo-silva-69b84a15b/
 [@__gasilva (Instagram)]: https://instagram.com/__gasilva
