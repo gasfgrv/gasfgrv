@@ -55,3 +55,5 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+➡️ [Mais videos em...](https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g)
