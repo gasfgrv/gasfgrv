@@ -2,14 +2,10 @@
 
 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possuindo experiência em manutenção de computadores, desenvolvimento de sistemas e análise de sistemas. Atualmente atuando na área de desenvolvimento de microsserviços.
 
----
-
 ### :books: **Formação Acadêmica**
 
 - Análise e Desenvolvimento de Sistemas – concluído em 2020 - Faculdade de Tecnologia da Zona Leste (FATEC ZL)
 - Técnico em Informática – concluído em 2016 - Escola Técnica da Zona Leste (ETEC ZL)
-
----
 
 ### :briefcase: **Experiência Profissional**
 
@@ -18,8 +14,6 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 - ArcNet Desenvolvimento de Software – Estagiário, novembro de 2018 até dezembro de 2018.
 - Instituto Paulista de Geriatria e Gerontologia – Estagiário, julho de 2018 até novembro de 2018.
 - Secretaria de Educação do Estado de São Paulo - Jovem Aprendiz Administrativo, setembro de 2013 até  dezembro de 2014.
-
----
 
 ### :iphone: **Me encontre aqui**
 
@@ -38,9 +32,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 [@__gasilva (Instagram)]: https://instagram.com/__gasilva
 [Gustavo Almeida (Facebook)]: https://www.facebook.com/gAlmeida11
 
----
-
-## **Meus últimos vídeos**
+### :tv: **Meus últimos vídeos**
 
 <!-- YOUTUBE:START -->
 - [Blockchain com Node.js](https://www.youtube.com/watch?v=8kxP_VkRicA)
@@ -51,8 +43,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 ➡️ [Mais videos em...](https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g)
 
-
----
+### :bar_chart: Estatísticas
 
 <div align="center">
 
