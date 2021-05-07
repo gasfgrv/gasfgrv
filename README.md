@@ -46,9 +46,9 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 <div align="center">
 
-![Minhas estatíticas](https://github-readme-stats.vercel.app/api?username=Gustomize)
+![Minhas estatíticas](https://github-readme-stats.vercel.app/api?username=gustosilva)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustomize)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustosilva)
 
 </div>
 
