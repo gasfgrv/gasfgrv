@@ -9,11 +9,16 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 ### :briefcase: **Experiência Profissional**
 
-- Autbank Projetos e Consultoria Ltda - Análista programador, agosto de 2020 - atual;
+- Autbank Projetos e Consultoria Ltda - Análista programador, julho de 2020 - atual;
 - Departamento de Trânsito de São Paulo - Estagiário, fevereiro de 2019 – junho de 2020.
 - ArcNet Desenvolvimento de Software – Estagiário, novembro de 2018 até dezembro de 2018.
 - Instituto Paulista de Geriatria e Gerontologia – Estagiário, julho de 2018 até novembro de 2018.
 - Secretaria de Educação do Estado de São Paulo - Jovem Aprendiz Administrativo, setembro de 2013 até  dezembro de 2014.
+
+### :page_facing_up: Meus Artigos
+
+- [Lgpd: Atuação na Prevenção de Vazamento de Dados](https://even3.blob.core.windows.net/even3publicacoes-assets/tcc/428254-lgpd-atuacao-na-prevencao-de-vazamento-de-dados-282544.pdf)
+- [Blockchain no Mercado Financeiro](https://www.linkedin.com/pulse/blockchain-mercado-financeiro-gustavo-silva/)
 
 ### :iphone: **Me encontre aqui**
 
@@ -54,5 +59,5 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 [Gustavo Silva (Youtube)]: https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g
 [Gustavo Silva (LinkedIn)]: https://www.linkedin.com/in/gustavo-silva-69b84a15b/
-[@__gasilva (Instagram)]: https://instagram.com/__gasilva
+[@__gasilva (Instagram)]: https://instagram.com/gustomize
 [Gustavo Almeida (Facebook)]: https://www.facebook.com/gAlmeida11
