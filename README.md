@@ -59,22 +59,19 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 ### :bar_chart: **Estatísticas**
 
-<div class="grid-container-estatisticas" style="display: grid;grid-template-columns: 50% 50%;grid-template-rows:auto;">
-  <div style="padding: 25px">
+<div class="grid-container-estatisticas">
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustosilva&theme=nord&date_format=j/n/Y">
     <br /><br />
     <img src="https://github-readme-stats.vercel.app/api?username=gustosilva&theme=nord">
   </div>
-
-  <div style="padding: 25px">
+  <div>
     <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustosilva&theme=nord">
   </div>
-
-  <div style="grid-column-start: 1;grid-column-end: span 3;">
+  <div class="grafico">
     <img src="https://activity-graph.herokuapp.com/graph?username=gustosilva&theme=nord">
   </div>
-
 </div>
 
 ---
@@ -82,3 +79,21 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 ### :busts_in_silhouette: **Pessoas que conheço**
 
 ![Metrics](https://metrics.lecoq.io/gustosilva?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
+
+<style>
+.grid-container-estatisticas {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: auto;
+}
+
+.grid-container-estatisticas > div{
+  padding: 25px
+}
+
+.grafico {
+  grid-column-start: 1;
+  grid-column-end: span 3;
+}
+</style>
+
