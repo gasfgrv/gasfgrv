@@ -61,23 +61,18 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 <div class="grid-container-estatisticas" style="display: grid;grid-template-columns: 50% 50%;grid-template-rows:auto;">
   <div style="padding: 25px">
-  
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=gustosilva&theme=nord&date_format=j/n/Y)
-   
-   ![](https://github-readme-stats.vercel.app/api?username=gustosilva&theme=nord)
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustosilva&theme=nord&date_format=j/n/Y">
+    <br /><br />
+    <img src="https://github-readme-stats.vercel.app/api?username=gustosilva&theme=nord">
   </div>
 
   <div style="padding: 25px">
-
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustosilva&theme=nord)
-
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustosilva&theme=nord">
   </div>
 
   <div style="grid-column-start: 1;grid-column-end: span 3;">
-
-   ![](https://activity-graph.herokuapp.com/graph?username=gustosilva&theme=nord)
-
+    <img src="https://activity-graph.herokuapp.com/graph?username=gustosilva&theme=nord">
   </div>
 
 </div>
