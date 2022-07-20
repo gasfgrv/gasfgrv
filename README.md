@@ -2,7 +2,7 @@
 
 <a href="https://api.whatsapp.com/send?phone=5511930093018"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/gustavo-silva-69b84a15b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/_gustosilva/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/gasfgrv/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.facebook.com/gAlmeida11"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 <a href="https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 <a href="https://open.spotify.com/user/316iwsuurk4wrc72ys5gle37hpei?fbclid=IwAR2iW4eA1ccqMWWCIYf_AVZna3FND33CPEjKd9xNjlhp3RnP3f_3VEe8BDM"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=25></a>
