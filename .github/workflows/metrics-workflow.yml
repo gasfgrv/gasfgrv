@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: gustosilva
+          user: gasfgrv
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
