@@ -130,17 +130,17 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 ---
 
 ### :bar_chart: **Estatísticas**
-![](https://github-readme-streak-stats.herokuapp.com/?user=gustosilva&theme=nord&date_format=j/n/Y)
-![](https://github-readme-stats.vercel.app/api?username=gustosilva&theme=nord)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gasfgrv&theme=nord&date_format=j/n/Y)
+![](https://github-readme-stats.vercel.app/api?username=gasfgrv&theme=nord)
 
 ### :computer: **Linguagens mais usadas**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustosilva&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gasfgrv&theme=nord)
 
 ###  :people_hugging: **Minhas contribuições**
-![](https://activity-graph.herokuapp.com/graph?username=gustosilva&theme=nord)
+![](https://activity-graph.herokuapp.com/graph?username=gasfgrv&theme=nord)
 
 ---
 
 ### :busts_in_silhouette: **Pessoas que conheço**
 
-![Metrics](https://metrics.lecoq.io/gustosilva?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/gasfgrv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
