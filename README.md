@@ -115,10 +115,10 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste, possui
 
 ### :tv: **Meus últimos vídeos**   
 <!-- YOUTUBE:START -->
- - [Blockchain com Node.js](https://www.youtube.com/watch?v=8kxP_VkRicA)
- - [Java com SQLite](https://www.youtube.com/watch?v=7SEDCJzaeb8)
- - [ICONIX Process](https://www.youtube.com/watch?v=c8M5Q30f9h4)
- - [Laboratório de Hardware - Setup da BIOS.](https://www.youtube.com/watch?v=pDuf8UUzL0Q)
+- [Blockchain com Node.js](https://www.youtube.com/watch?v=8kxP_VkRicA)
+- [Java com SQLite](https://www.youtube.com/watch?v=7SEDCJzaeb8)
+- [ICONIX Process](https://www.youtube.com/watch?v=c8M5Q30f9h4)
+- [Laboratório de Hardware - Setup da BIOS.](https://www.youtube.com/watch?v=pDuf8UUzL0Q)
 <!-- YOUTUBE:END -->
    
 ➡️ [Mais videos em...](https://www.youtube.com/channel/UCXKb8To1OWsDy6dqf4oM-_g)
