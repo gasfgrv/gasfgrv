@@ -47,6 +47,11 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 - Secretaria de Educação do Estado de São Paulo - Jovem Aprendiz Administrativo, setembro de 2013 até  dezembro de 2014.
 
 ---
+### :watch: **Dev Metrics**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ### :page_facing_up: **O que escrevi**
 
