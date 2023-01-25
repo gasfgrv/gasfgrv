@@ -74,7 +74,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
 <!-- START gadpp -->
-- gasfgrv/gasfgrv, [refs/heads/master@26f9e6d8453646e6500073ee3a932c8288c16d2d](https://github.com/gasfgrv/gasfgrv/commit/26f9e6d8453646e6500073ee3a932c8288c16d2d)
+- gasfgrv/gasfgrv, [refs/heads/master@2785f957487f9b77c31210ee9a11e271ebc4a93f](https://github.com/gasfgrv/gasfgrv/commit/2785f957487f9b77c31210ee9a11e271ebc4a93f)
 <!-- EBD gadpp -->
 
 ### :information_source: **Contribuições**
