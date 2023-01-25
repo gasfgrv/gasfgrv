@@ -73,8 +73,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- START gadpp -->
+<!-- EBD gadpp -->
 
 ### :information_source: **Contribuições**
 
