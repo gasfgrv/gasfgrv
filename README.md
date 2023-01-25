@@ -100,4 +100,4 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ### :busts_in_silhouette: **Pessoas que conheço**
 
-![metrics](github-metrics.svg)
+![metrics](img/github-metrics.svg)
