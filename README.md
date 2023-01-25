@@ -47,10 +47,6 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 - Secretaria de Educação do Estado de São Paulo - Jovem Aprendiz Administrativo, setembro de 2013 até  dezembro de 2014.
 
 ---
-### :watch: **Dev Metrics - Wakatime**
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### :page_facing_up: **O que escrevi**
 
@@ -75,11 +71,15 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ---
 
+### :watch: **Dev Metrics - Wakatime**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
 <!-- START gadpp -->
-- gasfgrv/gasfgrv, [refs/heads/master@00b5436ce36ed613b3ae39545540f51c9522fc9f](https://github.com/gasfgrv/gasfgrv/commit/00b5436ce36ed613b3ae39545540f51c9522fc9f)
-<!-- EBD gadpp -->
+<!-- END gadpp -->
 
 ### :information_source: **Contribuições**
 
@@ -90,10 +90,11 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![](https://github-readme-stats.vercel.app/api?username=gasfgrv&theme=nord)
 
 ### :computer: **Linguagens mais usadas**
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gasfgrv&theme=nord)
 
 ---
 
 ### :busts_in_silhouette: **Pessoas que conheço**
 
-![Metrics](https://metrics.lecoq.io/gasfgrv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&base.indepth=false&base.hireable=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=America%2FSao_Paulo)
+![metrics](github-metrics.svg)
