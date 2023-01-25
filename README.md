@@ -74,9 +74,6 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ### :computer: **Linguagens mais usadas**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gasfgrv&theme=nord)
 
-###  :people_hugging: **Minhas contribuições**
-![](https://activity-graph.herokuapp.com/graph?username=gasfgrv&theme=nord)
-
 ---
 
 ### :busts_in_silhouette: **Pessoas que conheço**
