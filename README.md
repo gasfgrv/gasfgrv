@@ -73,8 +73,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ### :watch: **Dev Metrics - Wakatime**
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START waka-->
+<!--END waka-->
 
 ![chart](charts/bar_graph.png)
 
