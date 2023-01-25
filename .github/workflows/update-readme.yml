@@ -1,17 +1,19 @@
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+name: Update GitHub Profile Page
+on: [push]
 
 jobs:
-  build:
+  gadpp_job:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
+    name: Update GitHub Profile Page
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v2
+        id: gadpp
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github-username: 'gasfgrv'
+          user-email: 'gustavo_almeida11@hotmail.com'
