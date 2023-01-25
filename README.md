@@ -3,14 +3,6 @@
 ### :bust_in_silhouette: **Sobre mim** 
 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técnico em informática pela ETEC Zona Leste, já atuei com manutenção de computadores, desenvolvimento e análise de sistemas. Atualmente trabalhando no desenvolvimento de microsserviços e APIs usando Java, Spring Boot, Apache Kafka e SQL Server. Além disso, tenho alguns projetos usando outras linguagens como javascript, Kotlin, PHP, Assembly, Python e Shell Script, etc. Entusiasta do open source e usando uma distro nova por semana.
 
-<!-- **O que estou jogando:**
-
-<a href="https://psnprofiles.com/gustavo_11845"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height=25></a>
-
-**O que estou ouvindo:**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&redirect=true) -->
-
 ---
 
 ### :calling: **Como me contatar...**
@@ -27,6 +19,15 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 <a href="mailto:gustavoalmeidasilva41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="mailto:gustavo_almeida11@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
+
+
+**O que estou jogando:**
+
+<a href="https://psnprofiles.com/gustavo_11845"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height=25></a>
+
+**O que estou ouvindo:**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&redirect=true)
 
 ---
 
@@ -48,7 +49,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ---
 
-### :page_facing_up: **O que escrevi**
+### :page_facing_up: **O que já escrevi**
 
 - [Lgpd: Atuação na Prevenção de Vazamento de Dados](https://even3.blob.core.windows.net/even3publicacoes-assets/tcc/428254-lgpd-atuacao-na-prevencao-de-vazamento-de-dados-282544.pdf)
 - [Blockchain no Mercado Financeiro](https://www.linkedin.com/pulse/blockchain-mercado-financeiro-gustavo-silva/)
@@ -56,6 +57,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ---
 
 ### :tv: **Meus últimos vídeos**   
+
 <!-- YOUTUBE:START -->
 - [Blockchain com Node.js](https://www.youtube.com/watch?v=8kxP_VkRicA)
 - [Java com SQLite](https://www.youtube.com/watch?v=7SEDCJzaeb8)
@@ -71,12 +73,12 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ---
 
-### :watch: **Dev Metrics - Wakatime**
-
-<!--START waka-->
-<!--END waka-->
+### :watch: **Métricas de Desenvolvimento - Wakatime**
 
 ![chart](charts/bar_graph.png)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
