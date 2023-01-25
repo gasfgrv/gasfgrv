@@ -3,18 +3,19 @@
 ### :bust_in_silhouette: **Sobre mim** 
 Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técnico em informática pela ETEC Zona Leste, já atuei com manutenção de computadores, desenvolvimento e análise de sistemas. Atualmente trabalhando no desenvolvimento de microsserviços e APIs usando Java, Spring Boot, Apache Kafka e SQL Server. Além disso, tenho alguns projetos usando outras linguagens como javascript, Kotlin, PHP, Assembly, Python e Shell Script, etc. Entusiasta do open source e usando uma distro nova por semana.
 
-**O que estou jogando:**
+<!-- **O que estou jogando:**
+
 <a href="https://psnprofiles.com/gustavo_11845"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height=25></a>
 
 **O que estou ouvindo:**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=316iwsuurk4wrc72ys5gle37hpei&redirect=true) -->
 
 ---
 
-### :calling: **Como me contatar**
+### :calling: **Como me contatar...**
 
-**Minhas redes sociais**
+**Nas minhas redes sociais:**
 
 <a href="https://api.whatsapp.com/send?phone=5511930093018"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/gustavo-silva-69b84a15b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -22,20 +23,22 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 <a href="https://www.facebook.com/gAlmeida11"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 <a href="https://discordapp.com/users/616994765065420801"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 
-**Meus e-mails**
+**Me mandando um e-mail**
 
 <a href="mailto:gustavoalmeidasilva41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="mailto:gustavo_almeida11@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height=25></a>
 
 ---
 
-### :books: **Formação Acadêmica**
+### :books: **Por onde estudei**
+
 - Análise e Desenvolvimento de Sistemas – concluído em 2020 - Faculdade de Tecnologia da Zona Leste (FATEC ZL)
 - Técnico em Informática – concluído em 2016 - Escola Técnica da Zona Leste (ETEC ZL)
 
 ---
 
-### :briefcase: **Experiência Profissional**
+### :briefcase: **Por onde trabalhei**
+
 - Itaú unibanco - Analista de engenharia de TI jr, setembro de 2021 - atual;
 - Autbank Projetos e Consultoria Ltda - Análista programador, julho de 2020 - setembro de 2021;
 - Departamento de Trânsito de São Paulo - Estagiário, fevereiro de 2019 – junho de 2020.
@@ -45,7 +48,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ---
 
-### :page_facing_up: **Meus Artigos**
+### :page_facing_up: **O que escrevi**
+
 - [Lgpd: Atuação na Prevenção de Vazamento de Dados](https://even3.blob.core.windows.net/even3publicacoes-assets/tcc/428254-lgpd-atuacao-na-prevencao-de-vazamento-de-dados-282544.pdf)
 - [Blockchain no Mercado Financeiro](https://www.linkedin.com/pulse/blockchain-mercado-financeiro-gustavo-silva/)
 
@@ -67,8 +71,17 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ---
 
-### :bar_chart: **Estatísticas**
+### :ballot_box_with_check: **Minhas atividades por aqui**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### :information_source: **Contribuições**
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gasfgrv&theme=nord&date_format=j/n/Y)
+
+### :bar_chart: **Estatísticas**
+
 ![](https://github-readme-stats.vercel.app/api?username=gasfgrv&theme=nord)
 
 ### :computer: **Linguagens mais usadas**
