@@ -76,6 +76,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![chart](charts/bar_graph.png)
+
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
 <!-- START gadpp -->
