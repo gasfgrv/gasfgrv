@@ -16,6 +16,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
+          filename: img/github-metrics.svg
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
