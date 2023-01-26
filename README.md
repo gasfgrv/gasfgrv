@@ -78,15 +78,15 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-213-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 396 Contributions in the Year 2023
+> 🏆 407 Contributions in the Year 2023
  > 
-> 📦 73.6 kB Used in GitHub's Storage 
+> 📦 73.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,6 +94,55 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.53% 
+🌆 Daytime    260 commits    ███████████░░░░░░░░░░░░░░   43.62% 
+🌃 Evening    234 commits    █████████░░░░░░░░░░░░░░░░   39.26% 
+🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
+Tuesday      66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
+Wednesday    149 commits    ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Thursday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+Friday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
+Saturday     62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+Sunday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.93%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Java                     1 hr 34 mins        █████████████░░░░░░░░░░░░   55.0% 
+Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   27.77% 
+YAML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
+
+🔥 Editors: 
+IntelliJ                 1 hr 34 mins        █████████████░░░░░░░░░░░░   55.31% 
+VS Code                  1 hr 16 mins        ███████████░░░░░░░░░░░░░░   44.69%
+
+🐱‍💻 Projects: 
+odontosys                1 hr 34 mins        █████████████░░░░░░░░░░░░   55.31% 
+gasfgrv-1                1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.18% 
+gasfgrv-site             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+
+💻 Operating System: 
+Linux                    2 hrs 51 mins       █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -108,9 +157,10 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
+![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2023 01:06:36 UTC
+ Last Updated on 26/01/2023 12:29:29 UTC
 <!--END_SECTION:waka-->
 
 ### :ballot_box_with_check: **Minhas atividades por aqui**
