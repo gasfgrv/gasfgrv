@@ -78,6 +78,40 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-213-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 396 Contributions in the Year 2023
+ > 
+> 📦 73.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 83 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     45 repos            ██████████████░░░░░░░░░░░   55.56% 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
+
+
+ Last Updated on 26/01/2023 01:06:36 UTC
 <!--END_SECTION:waka-->
 
 ### :ballot_box_with_check: **Minhas atividades por aqui**
