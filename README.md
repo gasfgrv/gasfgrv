@@ -116,7 +116,7 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
 <!-- START gadpp -->
-- gasfgrv/gasfgrv, [refs/heads/master@bb627c0ed6d584c5a10f438f53fcc5352ae7d8f9](https://github.com/gasfgrv/gasfgrv/commit/bb627c0ed6d584c5a10f438f53fcc5352ae7d8f9)
+- gasfgrv/gasfgrv, [refs/heads/master@6d6b272abebfe0b2a376406862534efaad7bb95f](https://github.com/gasfgrv/gasfgrv/commit/6d6b272abebfe0b2a376406862534efaad7bb95f)
 <!-- END gadpp -->
 
 ### :information_source: **Contribuições**
