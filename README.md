@@ -157,7 +157,6 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
  Last Updated on 27/01/2023 01:08:50 UTC
@@ -166,7 +165,7 @@ Kotlin                   4 repos             █░░░░░░░░░░�
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
 <!-- START gadpp -->
-- gasfgrv/gasfgrv, [refs/heads/master@287d6f8fec7ae0d9c30be0f5fb2c03521197cd23](https://github.com/gasfgrv/gasfgrv/commit/287d6f8fec7ae0d9c30be0f5fb2c03521197cd23)
+- gasfgrv/gasfgrv, [refs/heads/master@e9b8edd4b2418f3c041ddf2c82ea0e9366f0bdce](https://github.com/gasfgrv/gasfgrv/commit/e9b8edd4b2418f3c041ddf2c82ea0e9366f0bdce)
 <!-- END gadpp -->
 
 ### :information_source: **Contribuições**
