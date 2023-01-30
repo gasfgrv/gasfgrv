@@ -78,13 +78,13 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 519 Contributions in the Year 2023
+> 🏆 520 Contributions in the Year 2023
  > 
 > 📦 73.9 kB Used in GitHub's Storage 
  > 
@@ -98,8 +98,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ```text
 🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
-🌆 Daytime    215 commits    ████████░░░░░░░░░░░░░░░░░   34.68% 
-🌃 Evening    264 commits    ██████████░░░░░░░░░░░░░░░   42.58% 
+🌆 Daytime    214 commits    ████████░░░░░░░░░░░░░░░░░   34.52% 
+🌃 Evening    265 commits    ██████████░░░░░░░░░░░░░░░   42.74% 
 🌙 Night      93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0%
 
 ```
@@ -108,11 +108,11 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ```text
 Monday       80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
 Tuesday      66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
-Wednesday    68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.97% 
+Wednesday    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
 Thursday     111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.9% 
 Friday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
 Saturday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Sunday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77%
+Sunday       105 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.94%
 
 ```
 
@@ -159,9 +159,10 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
+![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2023 01:04:13 UTC
+ Last Updated on 30/01/2023 02:19:56 UTC
 <!--END_SECTION:waka-->
 
 ### :ballot_box_with_check: **Minhas atividades por aqui**
