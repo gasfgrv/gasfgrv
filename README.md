@@ -159,7 +159,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
  Last Updated on 31/01/2023 01:10:45 UTC
@@ -168,7 +167,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ### :ballot_box_with_check: **Minhas atividades por aqui**
 
 <!-- START gadpp -->
-- gasfgrv/gasfgrv, [refs/heads/master@fe999a3700d89e8c6501ad4fd4d82e9ca1ea4291](https://github.com/gasfgrv/gasfgrv/commit/fe999a3700d89e8c6501ad4fd4d82e9ca1ea4291)
+- gasfgrv/gasfgrv, [refs/heads/master@bf657f489aafa143cbecec11d1a7351a1942f5fc](https://github.com/gasfgrv/gasfgrv/commit/bf657f489aafa143cbecec11d1a7351a1942f5fc)
 <!-- END gadpp -->
 
 ### :information_source: **Contribuições**
