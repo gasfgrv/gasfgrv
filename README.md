@@ -84,9 +84,9 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 **🐱 My GitHub Data** 
 
-> 🏆 570 Contributions in the Year 2023
+> 🏆 574 Contributions in the Year 2023
  > 
-> 📦 73.9 kB Used in GitHub's Storage 
+> 📦 74.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -97,9 +97,9 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
+🌞 Morning    48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
 🌆 Daytime    219 commits    ████████░░░░░░░░░░░░░░░░░   34.82% 
-🌃 Evening    264 commits    ██████████░░░░░░░░░░░░░░░   41.97% 
+🌃 Evening    267 commits    ██████████░░░░░░░░░░░░░░░   42.45% 
 🌙 Night      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
 
 ```
@@ -107,10 +107,10 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ```text
 Monday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Tuesday      87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+Tuesday      91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
 Wednesday    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
 Thursday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-Friday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
+Friday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
 Saturday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
 Sunday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85%
 
@@ -159,9 +159,10 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 **Timeline**
 
+![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/01/2023 19:14:42 UTC
+ Last Updated on 01/02/2023 01:17:58 UTC
 <!--END_SECTION:waka-->
 
 ### :ballot_box_with_check: **Minhas atividades por aqui**
