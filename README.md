@@ -164,12 +164,6 @@ TypeScript               4 repos             █░░░░░░░░░░�
  Last Updated on 01/02/2023 01:17:58 UTC
 <!--END_SECTION:waka-->
 
-### :ballot_box_with_check: **Minhas atividades por aqui**
-
-<!-- START gadpp -->
-- gasfgrv/gasfgrv, [refs/heads/master@67a712bc461d8f3fed52c953e3b00adacd65d5d5](https://github.com/gasfgrv/gasfgrv/commit/67a712bc461d8f3fed52c953e3b00adacd65d5d5)
-<!-- END gadpp -->
-
 ### :information_source: **Contribuições**
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gasfgrv&theme=nord&date_format=j/n/Y)
