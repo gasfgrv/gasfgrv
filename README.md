@@ -78,7 +78,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-254-blue)
 
@@ -86,7 +86,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 > 🏆 610 Contributions in the Year 2023
  > 
-> 📦 74.2 kB Used in GitHub's Storage 
+> 📦 74.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -162,7 +162,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/02/2023 19:13:31 UTC
+ Last Updated on 04/02/2023 20:15:38 UTC
 <!--END_SECTION:waka-->
 
 ### :information_source: **Contribuições**
