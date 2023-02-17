@@ -78,7 +78,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -161,7 +161,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2023 12:25:53 UTC
+ Last Updated on 17/02/2023 13:22:14 UTC
 <!--END_SECTION:waka-->
 
 ### :information_source: **Contribuições**
