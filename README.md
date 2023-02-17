@@ -78,13 +78,13 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 636 Contributions in the Year 2023
+> 🏆 637 Contributions in the Year 2023
  > 
 > 📦 75.0 kB Used in GitHub's Storage 
  > 
@@ -98,8 +98,8 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 
 ```text
 🌞 Morning       56 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-🌆 Daytime      207 commits       ████████░░░░░░░░░░░░░░░░░   31.65 % 
-🌃 Evening      285 commits       ███████████░░░░░░░░░░░░░░   43.58 % 
+🌆 Daytime      206 commits       ████████░░░░░░░░░░░░░░░░░   31.50 % 
+🌃 Evening      286 commits       ███████████░░░░░░░░░░░░░░   43.73 % 
 🌙 Night        106 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 
 ```
@@ -109,10 +109,10 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 Monday         105 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 Tuesday        101 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 Wednesday       86 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Thursday        91 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday        92 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Friday          84 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 Saturday        93 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Sunday          94 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday          93 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 
 ```
 
@@ -161,7 +161,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/02/2023 02:49:57 UTC
+ Last Updated on 17/02/2023 03:20:21 UTC
 <!--END_SECTION:waka-->
 
 ### :information_source: **Contribuições**
