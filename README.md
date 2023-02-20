@@ -78,13 +78,13 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 ![chart](charts/bar_graph.png)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 638 Contributions in the Year 2023
+> 🏆 639 Contributions in the Year 2023
  > 
 > 📦 74.9 kB Used in GitHub's Storage 
  > 
@@ -106,13 +106,13 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e técn
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday         105 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Monday         106 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
 Tuesday        101 commits       ███░░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 Wednesday       86 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 Thursday        92 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Friday          84 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 Saturday        94 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Sunday          92 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Sunday          91 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 
 ```
 
@@ -161,7 +161,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gasfgrv/gasfgrv/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/02/2023 18:17:18 UTC
+ Last Updated on 20/02/2023 19:11:45 UTC
 <!--END_SECTION:waka-->
 
 ### :information_source: **Contribuições**
